@@ -7,6 +7,7 @@ package edu.lewisu.cs.klump.practice;
 import java.util.Scanner;
 import java.util.Random;
 
+// uses random numbers
 public class GuessMyNumberApp {
 	// this program asks the user to guess a random number
 	// I think you will really like it.
