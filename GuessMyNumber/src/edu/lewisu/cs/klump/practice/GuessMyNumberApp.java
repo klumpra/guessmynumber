@@ -8,6 +8,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class GuessMyNumberApp {
+	// this program asks the user to guess a random number
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int target, guess;
